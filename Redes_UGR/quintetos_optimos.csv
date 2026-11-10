@@ -1,0 +1,4 @@
+Tipo,Quinteto,Ataque,Defensa,Equilibrio,Min_Pareja,Media_Min_Parejas
+Ofensivo,J2 - J3 - J4 - J7 - J11,2.34,0.952,1.388,26.7,50.81
+Defensivo,J3 - J4 - J5 - J6 - J11,2.156,0.804,1.352,27.8,55.29
+Equilibrado,J2 - J3 - J4 - J8 - J11,2.285,0.867,1.418,21.7,42.68

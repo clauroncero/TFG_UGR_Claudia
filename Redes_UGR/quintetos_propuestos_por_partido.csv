@@ -1,0 +1,6 @@
+Objetivo,Quinteto_J,Partido,Minutos,PF,PC,Intervalos,+/-,PF_Min,PC_Min,Balance_Min
+Defensivo,J3 - J4 - J5 - J6 - J11,quintetos_Espana_E,3.566666666666667,10,1,1,9,2.803738317757009,0.2803738317757009,2.5233644859813085
+Defensivo,J3 - J4 - J5 - J6 - J11,quintetos_Espana_T,4.683333333333334,6,4,2,2,1.281138790035587,0.8540925266903914,0.4270462633451957
+Equilibrado,J2 - J3 - J4 - J8 - J11,quintetos_Espana_M,2.5,9,1,1,8,3.6,0.4,3.2
+Equilibrado,J2 - J3 - J4 - J8 - J11,quintetos_Espana_S,1.25,3,2,1,1,2.4,1.6,0.8
+Ofensivo,J2 - J3 - J4 - J7 - J11,quintetos_Espana_I,0.7333333333333334,5,1,2,4,6.8181818181818175,1.3636363636363635,5.454545454545454
